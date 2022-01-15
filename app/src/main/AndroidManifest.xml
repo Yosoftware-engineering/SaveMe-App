@@ -24,8 +24,7 @@
 
         <activity android:name="com.example.yosef.Updatenumbers"></activity>
         <meta-data
-            android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBvweivfDeJHe2QU05cdCa1TAsYGMZdeZw" />
+            android:name="com.google.android.geo.API_KEY"/>
         <activity android:name=".TestActivity"></activity>
         <activity android:name=".MesureActivity"></activity>
         <activity android:name="com.example.yosef.AccountActivity" />
