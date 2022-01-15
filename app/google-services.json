@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "907988217763",
+    "firebase_url": "https://yosef-8067c.firebaseio.com",
+    "project_id": "yosef-8067c",
+    "storage_bucket": "yosef-8067c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907988217763:android:182c7bf73c1718374d3416",
+        "android_client_info": {
+          "package_name": "com.example.yosef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907988217763-seohvd14j6k2kcsjsgvj8mraef4mv24a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yosef",
+            "certificate_hash": "80cc2c00ba3b9811356be925b2af53de46f5ced6"
+          }
+        },
+        {
+          "client_id": "907988217763-klkfk80c92pibn9ssr1uf7id5fpr88h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6_68inkpbPAyLfK8uU2031sYU5aXDYgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907988217763-klkfk80c92pibn9ssr1uf7id5fpr88h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

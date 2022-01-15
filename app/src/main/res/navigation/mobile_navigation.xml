@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_account">
+
+    <fragment
+        android:id="@+id/nav_account"
+        android:label="@string/menu_home" />
+
+    <fragment
+        android:id="@+id/nav_closepeople"
+        android:name="com.example.yosef.Updatenumbers"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/activity_updatenumbers" />
+
+    <fragment
+        android:id="@+id/nav_heartrate"
+
+        android:label="@string/menu_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_map"
+        android:name="com.example.yosef.mapsactivity.MapsActivity"
+        android:label="@string/menu_tools"
+        tools:layout="@layout/maps_activity" />
+
+    <fragment
+        android:id="@+id/nav_share"
+
+        android:label="@string/menu_share"
+       />
+
+
+</navigation>
