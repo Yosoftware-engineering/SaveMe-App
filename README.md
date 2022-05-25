@@ -4,6 +4,6 @@ I have created a smart emergency system designed to save people in as little tim
 And built in a android studio work environment
 It will be 3 tier application,
 
-1-Front end: UI is written in HTML/CSS/XML
+1-Front end: UI is written in XML
 2-Backend: java
 3-Database: Firrebae
